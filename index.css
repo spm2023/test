@@ -1,0 +1,26 @@
+body { 
+	background-color: Black; 
+}
+
+img {width: 900px
+; height: 600px; text-align: center; display: block; margin: 0 auto 0 auto;}
+
+p {font-family:'IM Fell Double Pica', serif; font-size: 18px; color: white}
+
+h2 {font-family:'IM Fell Double Pica', serif;
+padding: 1em; text-align: center ;
+color:White; font-size: 20px}
+h1 {text-align-last: center; color: DarkGray; font-family: 'Montserrat Subrayada', sans-serif; font-size: 55px}
+
+div {display: flex; flex-flow: wrap;}
+span {color: white; text-align: center; display: block; padding-top: 3em;}
+
+ul {font-family:'IM Fell Double Pica', serif; font-size: 18px; text-align: center; color: white; 
+color: white; list-style-position: inside ; list-style-type: square; display: inline;}
+
+a {font-family:'IM Fell Double Pica', serif; font-size: 18px; text-align: center; 
+color: white;}
+
+h4 {font-family:'IM Fell Double Pica', serif;
+; text-align: center ;
+color:White; font-size: 12px; padding-top:3em; padding-left: 3em;}
